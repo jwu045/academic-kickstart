@@ -49,8 +49,10 @@ date_format = "January 2006"
   date_start = "2008-09-15"
   date_end = "2013-08-10"
   description = """ Conduct research in high performance computing
-	* Conduct research in cosmological simulations Using the Adaptive Refinement Tree (ART) Code
-	* Conduct research in framework for topology awareness.
+  
+	  * Conduct research in cosmological simulations Using the Adaptive Refinement Tree (ART) Code
+	  * Conduct research in framework for topology awareness.
+    
   """  
 
 [[experience]]
@@ -61,7 +63,7 @@ date_format = "January 2006"
   date_start = "2009-06-15"
   date_end = "2009-08-10"
   description = """
-    Analyze performance of the Adaptive Refinement Tree (ART) Code. 
+  Analyze performance of the Adaptive Refinement Tree (ART) Code. 
   """  
 
 +++
