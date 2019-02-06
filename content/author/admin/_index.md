@@ -13,7 +13,7 @@ role = "Software Engineer"
 organizations = [ { name = "GEIRI North America", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Her research interests are in the fields of Parallel and Distributed Systems, High Performance Computing and power system analysis."
+bio = "Her research interests are in the fields of Parallel and Distributed Systems, High Performance Computing and Power System Analysis."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "jingjin.wu@geirina.net"
