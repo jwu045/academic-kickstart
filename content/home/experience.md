@@ -37,6 +37,7 @@ date_format = "January 2006"
   date_start = "2013-09-15"
   date_end = "2015-12-31"
   description = """
+  Responsibility include:
   * Teach Distributed and Parallel Computing, Formal Language and Automata, and Assembly Language Programming.
   * Conduct research in high performance computing.
   """
@@ -48,11 +49,11 @@ date_format = "January 2006"
   location = "Chicago, Illinois"
   date_start = "2008-09-15"
   date_end = "2013-08-10"
-  description = """ 
+  description = """
   Conduct research in High Performance Computing
-	* Conduct research in cosmological simulations Using the Adaptive Refinement Tree (ART) Code.
-	* Conduct research in framework for topology awareness.    
-  """  
+  * Conduct research in cosmological simulations Using the Adaptive Refinement Tree (ART) Code.
+  * Conduct research in framework for topology awareness.
+  """ 
 
 [[experience]]
   title = "Research Intern"
