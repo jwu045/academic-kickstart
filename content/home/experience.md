@@ -48,11 +48,11 @@ date_format = "January 2006"
   location = "Chicago, Illinois"
   date_start = "2008-09-15"
   date_end = "2013-08-10"
-  description = """ Conduct research in high performance computing
-  
-	  * Conduct research in cosmological simulations Using the Adaptive Refinement Tree (ART) Code
-	  * Conduct research in framework for topology awareness.
-    
+  description = """ 
+  Conduct research in high performance computing
+
+	* Conduct research in cosmological simulations Using the Adaptive Refinement Tree (ART) Code
+	* Conduct research in framework for topology awareness.    
   """  
 
 [[experience]]
