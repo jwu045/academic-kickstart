@@ -37,9 +37,8 @@ date_format = "January 2006"
   date_start = "2013-09-15"
   date_end = "2015-12-31"
   description = """
-  Teach Distributed and Parallel Computing, Formal Language and Automata, and Assembly Language Programming.
-  
-  Conduct research in high performance computing.
+  * Teach Distributed and Parallel Computing, Formal Language and Automata, and Assembly Language Programming.
+  * Conduct research in high performance computing.
   """
   
 [[experience]]
@@ -50,8 +49,8 @@ date_format = "January 2006"
   date_start = "2008-09-15"
   date_end = "2013-08-10"
   description = """ 
-  Conduct research in High Performance Computing:
-	* Conduct research in cosmological simulations Using the Adaptive Refinement Tree (ART) Code
+  Conduct research in High Performance Computing
+	* Conduct research in cosmological simulations Using the Adaptive Refinement Tree (ART) Code.
 	* Conduct research in framework for topology awareness.    
   """  
 
