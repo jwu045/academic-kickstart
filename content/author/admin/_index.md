@@ -90,4 +90,4 @@ interests = [
 +++
 
 Jingjin Wu joined GEIRI North America in 2007. She is a software engineer of Graph Computing and Grid Modernization Group. 
-Her research interests are in the fields of Parallel and Distributed Systems, High Performance Computing and power system analysis.
+Her research interests are in the fields of Parallel and Distributed Systems, High Performance Computing and Power System Analysis.
