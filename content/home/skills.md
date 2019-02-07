@@ -40,6 +40,12 @@ weight = 7
 #  description = "10%"
   
 [[feature]]
-  name = "C/C++,  OpenMP,  Pthread,  MPI,  TigerGraph,  MPE,  Jumpshot,  Matlab/Octave,  Shell Scripting,  GNU Make,  Vi/Vim" 
+  name = "C/C++,  OpenMP,  Pthread,  MPI"
+  
+[[feature]] 
+  name = "TigerGraph,  MPE,  Jumpshot,  Matlab/Octave"
+
+[[feature]]
+  name = "Shell Scripting,  GNU Make,  Vi/Vim" 
   
 +++
