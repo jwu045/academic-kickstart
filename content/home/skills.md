@@ -38,11 +38,8 @@ weight = 7
 #  icon_pack = "fas"
 #  name = "Photography"
 #  description = "10%"
-
-[[feature]]
-  name = "C/C++"
   
 [[feature]]
-  name = "C/C++, TigerGraph, OpenMP, Pthread, Message Passing Interface (MPI), MPI, Parallel Environment (MPE), Jumpshot, Matlab/Octave, Shell Scripting, GNU Make, Vi/Vim" 
+  name = "C/C++,  OpenMP,  Pthread,  MPI,  TigerGraph,  MPE,  Jumpshot,  Matlab/Octave,  Shell Scripting,  GNU Make,  Vi/Vim" 
   
 +++
