@@ -6,7 +6,7 @@ name = "Jingjin Wu"
 superuser = true
 
 # Role/position
-role = "Software Engineer"
+role = "Senior Software Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -89,5 +89,5 @@ interests = [
 
 +++
 
-Jingjin Wu joined GEIRI North America in 2007. She is a software engineer of Graph Computing and Grid Modernization Group. 
+Jingjin Wu joined GEIRI North America in 2017. She is a senior software engineer of Graph Computing and Grid Modernization Group. 
 Her research interests are in the fields of Parallel and Distributed Systems, High Performance Computing and Power System Analysis.
